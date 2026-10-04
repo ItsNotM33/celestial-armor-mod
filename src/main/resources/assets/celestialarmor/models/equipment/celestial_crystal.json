@@ -1,14 +1,10 @@
 {
   "layers": {
     "humanoid": [
-      {
-        "texture": "celestialarmor:white"
-      }
+      { "texture": "celestialarmor:transparent" }
     ],
     "humanoid_leggings": [
-      {
-        "texture": "celestialarmor:white"
-      }
+      { "texture": "celestialarmor:transparent" }
     ]
   }
 }
