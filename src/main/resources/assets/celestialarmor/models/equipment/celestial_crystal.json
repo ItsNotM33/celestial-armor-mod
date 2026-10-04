@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "celestialarmor:white"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "celestialarmor:white"
+      }
+    ]
+  }
+}
